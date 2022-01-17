@@ -3,6 +3,7 @@ launch.json
 extensions.json
 idedata.json
 project.checksum
+*.code-workspace
 
 # Local History for Visual Studio Code
 .history/
