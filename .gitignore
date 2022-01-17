@@ -4,6 +4,8 @@ extensions.json
 idedata.json
 project.checksum
 *.code-workspace
+partitions.bin
+firmware.elf
 
 # Local History for Visual Studio Code
 .history/
