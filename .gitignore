@@ -1,9 +1,8 @@
 .vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-!.vscode/*.code-snippets
+launch.json
+extensions.json
+idedata.json
+project.checksum
 
 # Local History for Visual Studio Code
 .history/
@@ -43,3 +42,4 @@
 *.exe
 *.out
 *.app
+
