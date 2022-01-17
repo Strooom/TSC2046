@@ -1,4 +1,5 @@
 #include "TSC2046.h"
+#include <SPI.h>
 
 TSC2046::TSC2046(uint32_t theChipSelectPin) : chipSelectPin(theChipSelectPin) {
     pinMode(chipSelectPin, OUTPUT);

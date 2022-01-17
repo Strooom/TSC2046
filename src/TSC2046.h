@@ -1,6 +1,5 @@
 #pragma once
 #include <Arduino.h>
-#include <SPI.h>
 
 class TSC2046 {
   public:
